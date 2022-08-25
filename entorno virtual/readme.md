@@ -1,0 +1,3 @@
+Python guarda todos los paquetes de terceros en un solo directorio, esto tiene el problema que al tener varios proyectos con las mismas dependencias, si un modulo tiene una actualización puede que afecte a uno de los proyectos en cuestion.
+
+Ahi aparecen los entornos virtuales, donde podremos asignar a cada proyecto sus determinadas dependencias con las actualiazaciones correspondientes para que no haya problemas.
